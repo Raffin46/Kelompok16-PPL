@@ -1,0 +1,21 @@
+
+----------Tgs 1 klpk 16 PPL----------
+1.Use Story
+(bisnis bergerak di bidang kuliner makanan dan minuman 
+tempat makan kami ada beda nya dari tempat lain tempat kami
+ada boot game kemudian org² yg dtg di situ bisa datang main 
+game secara geratis karena banyak yg main game lama² bisa rusak devicenya 
+pengujung dtg di tempat kami dtg berapa kali ketika menjadi loyal 
+pihak kami bisa memberikan reward bisa kasih vocer geratis untuk main game
+karna kami adalah bisnis makanan dan minuman kalo jaman sekaeang enak nya gimana sih 
+agar menu bisa di gonta gant)----> kurang lebih story yg saya tangkap seperti ini
+
+2.Lihat Kebutuhan Teknis dan Non-teknis Dari Software Development
+3.Work Breakdown Structure
+4.Timlane gantt chart
+5.A4,Biodata,cover,Tugas Kelompok 1 Tentang -> User Story
+
+----------Tgs 2 klpk 16 PPL----------
+1.Cost -> definisikan cost untuk melengkapi harga nya berapa kemudian di kasih harga 
+2.WireFrame ->disain ux posisi-posisi pada layout
+3.Edit file tgs doc di tgs 1
